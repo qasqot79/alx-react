@@ -38,4 +38,3 @@ describe('<App />', () => {
     expect(wrapper.find('CourseList')).toHaveLength(1);
   });
 });
-   
